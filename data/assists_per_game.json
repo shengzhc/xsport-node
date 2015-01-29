@@ -1,0 +1,302 @@
+[
+	{
+		"last_name":"Rondo",
+		"first_name":"Rajon",
+		"display_name":"Rajon Rondo",
+		"rank":1,
+		"value":10.73,
+		"team":{
+			"team_id":"boston-celtics",
+			"abbreviation":"BOS",
+			"active":true,
+			"first_name":"Boston",
+			"last_name":"Celtics",
+			"conference":"East",
+			"division":"Atlantic",
+			"site_name":"TD Garden",
+			"city":"Boston",
+			"state":"Massachusetts",
+			"full_name":"Boston Celtics"
+		}
+	},
+	{
+		"last_name":"Rubio",
+		"first_name":"Ricky",
+		"display_name":"Ricky Rubio",
+		"rank":2,
+		"value":10.0,
+		"team":{
+			"team_id":"minnesota-timberwolves",
+			"abbreviation":"MIN",
+			"active":true,
+			"first_name":"Minnesota",
+			"last_name":"Timberwolves",
+			"conference":"West",
+			"division":"Northwest",
+			"site_name":"Target Center",
+			"city":"Minneapolis",
+			"state":"Minnesota",
+			"full_name":"Minnesota Timberwolves"
+		}
+	},
+	{
+		"last_name":"Paul",
+		"first_name":"Chris",
+		"display_name":"Chris Paul",
+		"rank":3,
+		"value":9.92,
+		"team":{
+			"team_id":"los-angeles-clippers",
+			"abbreviation":"LAC",
+			"active":true,
+			"first_name":"Los Angeles",
+			"last_name":"Clippers",
+			"conference":"West",
+			"division":"Pacific",
+			"site_name":"Staples Center",
+			"city":"Los Angeles",
+			"state":"California",
+			"full_name":"Los Angeles Clippers"
+		}
+	},
+	{
+		"last_name":"Lawson",
+		"first_name":"Ty",
+		"display_name":"Ty Lawson",
+		"rank":4,
+		"value":9.67,
+		"team":{
+			"team_id":"denver-nuggets",
+			"abbreviation":"DEN",
+			"active":true,
+			"first_name":"Denver",
+			"last_name":"Nuggets",
+			"conference":"West",
+			"division":"Northwest",
+			"site_name":"Pepsi Center",
+			"city":"Denver",
+			"state":"Colorado",
+			"full_name":"Denver Nuggets"
+		}
+	},
+	{
+		"last_name":"Wall",
+		"first_name":"John",
+		"display_name":"John Wall",
+		"rank":5,
+		"value":9.08,
+		"team":{
+			"team_id":"washington-wizards",
+			"abbreviation":"WAS",
+			"active":true,
+			"first_name":"Washington",
+			"last_name":"Wizards",
+			"conference":"East",
+			"division":"Southeast",
+			"site_name":"Verizon Center",
+			"city":"Washington",
+			"state":"District of Columbia",
+			"full_name":"Washington Wizards"
+		}
+	},
+	{
+		"last_name":"Jackson",
+		"first_name":"Reggie",
+		"display_name":"Reggie Jackson",
+		"rank":6,
+		"value":7.75,
+		"team":{
+			"team_id":"oklahoma-city-thunder",
+			"abbreviation":"OKC",
+			"active":true,
+			"first_name":"Oklahoma City",
+			"last_name":"Thunder",
+			"conference":"West",
+			"division":"Northwest",
+			"site_name":"Chesapeake Energy Arena",
+			"city":"Oklahoma City",
+			"state":"Oklahoma",
+			"full_name":"Oklahoma City Thunder"
+		}
+	},
+	{
+		"last_name":"Curry",
+		"first_name":"Wardell",
+		"display_name":"Stephen Curry",
+		"rank":6,
+		"value":7.75,
+		"team":{
+			"team_id":"golden-state-warriors",
+			"abbreviation":"GS",
+			"active":true,
+			"first_name":"Golden State",
+			"last_name":"Warriors",
+			"conference":"West",
+			"division":"Pacific",
+			"site_name":"Oracle Arena",
+			"city":"Oakland",
+			"state":"California",
+			"full_name":"Golden State Warriors"
+		}
+	},
+	{
+		"last_name":"James",
+		"first_name":"LeBron",
+		"display_name":"LeBron James",
+		"rank":8,
+		"value":7.08,
+		"team":{
+			"team_id":"cleveland-cavaliers",
+			"abbreviation":"CLE",
+			"active":true,
+			"first_name":"Cleveland",
+			"last_name":"Cavaliers",
+			"conference":"East",
+			"division":"Central",
+			"site_name":"Quicken Loans Arena",
+			"city":"Cleveland",
+			"state":"Ohio",
+			"full_name":"Cleveland Cavaliers"
+		}
+	},
+	{
+		"last_name":"Collison",
+		"first_name":"Darren",
+		"display_name":"Darren Collison",
+		"rank":9,
+		"value":7.0,
+		"team":{
+			"team_id":"sacramento-kings",
+			"abbreviation":"SAC",
+			"active":true,
+			"first_name":"Sacramento",
+			"last_name":"Kings",
+			"conference":"West",
+			"division":"Pacific",
+			"site_name":"Sleep Train Arena",
+			"city":"Sacramento",
+			"state":"California",
+			"full_name":"Sacramento Kings"
+		}
+	},
+	{
+		"last_name":"Teague",
+		"first_name":"Jeff",
+		"display_name":"Jeff Teague",
+		"rank":10,
+		"value":6.91,
+		"team":{
+			"team_id":"atlanta-hawks",
+			"abbreviation":"ATL",
+			"active":true,
+			"first_name":"Atlanta",
+			"last_name":"Hawks",
+			"conference":"East",
+			"division":"Southeast",
+			"site_name":"Philips Arena",
+			"city":"Atlanta",
+			"state":"Georgia",
+			"full_name":"Atlanta Hawks"
+		}
+	},
+	{
+		"last_name":"Holiday",
+		"first_name":"Jrue",
+		"display_name":"Jrue Holiday",
+		"rank":11,
+		"value":6.75,
+		"team":{
+			"team_id":"new-orleans-pelicans",
+			"abbreviation":"NO",
+			"active":true,
+			"first_name":"New Orleans",
+			"last_name":"Pelicans",
+			"conference":"West",
+			"division":"Southwest",
+			"site_name":"Smoothie King Center",
+			"city":"New Orleans",
+			"state":"Louisiana",
+			"full_name":"New Orleans Pelicans"
+		}
+	},
+	{
+		"last_name":"Harden",
+		"first_name":"James",
+		"display_name":"James Harden",
+		"rank":12,
+		"value":6.64,
+		"team":{
+			"team_id":"houston-rockets",
+			"abbreviation":"HOU",
+			"active":true,
+			"first_name":"Houston",
+			"last_name":"Rockets",
+			"conference":"West",
+			"division":"Southwest",
+			"site_name":"Toyota Center",
+			"city":"Houston",
+			"state":"Texas",
+			"full_name":"Houston Rockets"
+		}
+	},
+	{
+		"last_name":"Lillard",
+		"first_name":"Damian",
+		"display_name":"Damian Lillard",
+		"rank":13,
+		"value":6.5,
+		"team":{
+			"team_id":"portland-trail-blazers",
+			"abbreviation":"POR",
+			"active":true,
+			"first_name":"Portland",
+			"last_name":"Trail Blazers",
+			"conference":"West",
+			"division":"Northwest",
+			"site_name":"Moda Center",
+			"city":"Portland",
+			"state":"Oregon",
+			"full_name":"Portland Trail Blazers"
+		}
+	},
+	{
+		"last_name":"Williams",
+		"first_name":"Deron",
+		"display_name":"Deron Williams",
+		"rank":14,
+		"value":6.38,
+		"team":{
+			"team_id":"brooklyn-nets",
+			"abbreviation":"BKN",
+			"active":true,
+			"first_name":"Brooklyn",
+			"last_name":"Nets",
+			"conference":"East",
+			"division":"Atlantic",
+			"site_name":"Barclays Center",
+			"city":"Brooklyn",
+			"state":"New York",
+			"full_name":"Brooklyn Nets"
+		}
+	},
+	{
+		"last_name":"Wade",
+		"first_name":"Dwyane",
+		"display_name":"Dwyane Wade",
+		"rank":14,
+		"value":6.38,
+		"team":{
+			"team_id":"miami-heat",
+			"abbreviation":"MIA",
+			"active":true,
+			"first_name":"Miami",
+			"last_name":"Heat",
+			"conference":"East",
+			"division":"Southeast",
+			"site_name":"AmericanAirlines Arena",
+			"city":"Miami",
+			"state":"Florida",
+			"full_name":"Miami Heat"
+		}
+	}
+]

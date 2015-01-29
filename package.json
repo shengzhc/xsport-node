@@ -1,0 +1,34 @@
+{
+  "name": "TodaySports",
+  "version": "0.0.0",
+  "description": "Today Sport Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "Social"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "*",
+    "body-parser": "*",
+    "commander": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-session": "*",
+    "grunt": "*",
+    "mocha": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "node-inspector": "*",
+    "nodemon": "*",
+    "request": "^*",
+    "should": "^4.2.1",
+    "supertest": "^0.14.0",
+    "winston": "*",
+    "cron": "*"
+  }
+}

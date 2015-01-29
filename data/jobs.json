@@ -1,0 +1,10 @@
+[
+	{
+		job_id: "ClearAllJobs",
+		loop: false,
+		function: "clearAllJobs",
+	},
+	{
+
+	}
+]
